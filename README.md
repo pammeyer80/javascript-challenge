@@ -4,6 +4,8 @@
 
 The UFO-Level-1 website pulls UFO sighting json data into a table. 
 
+Link: https://pammeyer80.github.io/javascript-challenge/UFO-level-1/index.html
+
 The table displays the following columns:
 * Date
 * City
